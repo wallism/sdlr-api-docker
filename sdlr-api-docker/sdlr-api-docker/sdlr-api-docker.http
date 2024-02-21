@@ -1,0 +1,6 @@
+@sdlr_api_docker_HostAddress = http://localhost:5012
+
+GET {{sdlr_api_docker_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
